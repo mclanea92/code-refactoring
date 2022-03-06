@@ -86,11 +86,11 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* combined class/selector tags; elements the same.
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,12 +100,13 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
-.benefit-lead h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Combined into one class/selector tag because elements are the same.
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +116,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
