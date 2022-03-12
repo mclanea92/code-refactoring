@@ -44,6 +44,3 @@ Below is a screenshot of the page at the end of the changes.  No changes made fr
 
 ![screenshot of the bottom of the updated page from refactoring](./assets/images/bottom.png)
 
-Below image is a screenshot of the mobile version of the website.
-
-![screenshot of mobile website](./assets/images/mobile.png)
