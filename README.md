@@ -41,3 +41,5 @@ This image below shows how combining classes and ids in css can be benefical to 
 Below is a screenshot of the page at the end of the changes.  No changes made from before visually but refactoring helped accessiblity and cleaning up some of css code to be cleaner.
 
 ![screenshot of the top of the updated page from refactoring](./assets/images/landing-page.png)
+
+![screenshot of the bottom of the updated page from refactoring](./assets/images/bottom.png)
